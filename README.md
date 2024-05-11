@@ -1,7 +1,7 @@
 # Projeto de ChatBot da Imersão IA - Bruna Guimarães
 Neste projeto estão os arquivos que eu desenvolvi ao longo da imersão, especificamente nos últimos dias, com o auxílio das últimas aulas fornecidas pela alura.
 
-<img src="https://th.bing.com/th/id/OIG3.vShW338FY9nsUqhHdZ0R?w=1024&h=1024&rs=1&pid=ImgDetMain" heigth="500" width="500">
+<img src="https://th.bing.com/th/id/OIG3.vShW338FY9nsUqhHdZ0R?w=1024&h=1024&rs=1&pid=ImgDetMain" heigth="900" width="900">
 
 ## 👩‍💻 Chatbot Game
 No arquivo chatbotgame.ipynb consta o código realizado para a criação do chat.
