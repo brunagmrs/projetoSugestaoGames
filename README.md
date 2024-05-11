@@ -1,4 +1,4 @@
-# Projeto de ChatBot da Imersão IA
+# Projeto de ChatBot da Imersão IA - Bruna Guimarães
 Neste projeto estão os arquivos que eu desenvolvi ao longo da imersão, especificamente nos últimos dias, com o auxílio das últimas aulas fornecidas pela alura.
 
 ## 👩‍💻 Chatbot Game
