@@ -4,6 +4,10 @@ Neste projeto estão os arquivos que eu desenvolvi ao longo da imersão, especif
 <img src="https://th.bing.com/th/id/OIG3.vShW338FY9nsUqhHdZ0R?w=1024&h=1024&rs=1&pid=ImgDetMain" heigth="900" width="900">
 
 ## 👩‍💻 Chatbot Game
+
+![interface_chatbot](https://github.com/brunagmrs/projetoSugestaoGames/assets/115497335/860388fc-d08e-4aab-9ca2-742bbe458274)
+Design de interface feita no Figma
+
 No arquivo chatbotgame.ipynb consta o código realizado para a criação do chat.
 link do código: [chatBotGame](https://github.com/brunagmrs/projetoSugestaoGames/blob/main/chatBotGame.ipynb)
 
