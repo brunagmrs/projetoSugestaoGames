@@ -2,7 +2,8 @@
 Neste projeto estão os arquivos que eu desenvolvi ao longo da imersão, especificamente nos últimos dias, com o auxílio das últimas aulas fornecidas pela alura.
 
 ## 👩‍💻 Chatbot Game
-No arquivo chatbotgame.ipnb consta o código realizado para a criação do chat.
+No arquivo chatbotgame.ipynb consta o código realizado para a criação do chat.
+link do código: [chatBotGame](https://github.com/brunagmrs/projetoSugestaoGames/blob/main/chatBotGame.ipynb)
 
 **Objetivo**
 
@@ -30,6 +31,5 @@ def exibir_menu():
     print("--------------------")
 ```
 
-link do código: [chatBotGame](https://github.com/brunagmrs/projetoSugestaoGames/blob/main/chatBotGame.ipynb)
 
 É importante ressaltar que foi utilizado o Gemini para criação do código, os códigos fornecidos pela Alura e a criação do código foi feita no Google AI Studio! Independente da classificação foi muito gratificante participar da Imersão, Google e alura são minhas referências na área da tecnologia 💙
