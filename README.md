@@ -13,10 +13,10 @@ Sugerir jogos para o usuário para que ele possa jogar, conhecer, se divertir. C
 
 O chat de sugestão de Games possuí um menu de interação com o usuário, onde o usuário pode fazer as seguintes ações
 
-- Inserir Preferências várias vezes, o quanto o usuário achar necessário, em forma de frases.
-- Receber Sugestões de acordo com as preferências descritas ao chat
-- Ver histórico com o chat desde que ele não tenha limpado suas conversas
-- Sair da conversa com o chat
+- Inserir Preferências, quantas vezes o usuário achar necessário, no formato de frases;
+- Receber Sugestões, de acordo com as preferências descritas ao chat;
+- Ver histórico com o chat desde que o usuário não tenha limpado suas conversas;
+- Sair da conversa com o chat.
 
 ```python
 def exibir_menu():
